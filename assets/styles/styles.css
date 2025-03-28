@@ -1,0 +1,55 @@
+.main {
+    height: auto;
+    min-height: 100vh;
+    font-weight: 700;
+}
+
+.container {
+    /* max-width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    column-count: 24;
+    column-gap:20;*/
+}
+
+p {
+    margin-top: .5em;
+}
+
+hr {
+    border-bottom: 1.5pxpx solid #ccc;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+
+.header {}
+
+body {
+    font-family: "garamond";
+}
+
+.title {
+    font-family: "eb garamond";
+    font-style: italic;
+    font-size: xx-large;
+}
+
+h1 {
+    font-family: "eb garamond";
+    font-style: italic;
+    font-size: large;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+h2 {
+    font-family: "rajdhani";
+    font-weight: 500;
+    font-size: x-large;
+}
+
+h3 {
+    font-family: "eb garamond";
+    font-style: italic;
+    font-size: xx-large;
+}
