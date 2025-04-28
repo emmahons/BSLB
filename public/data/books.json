@@ -110,6 +110,8 @@
   {
     "id": "213",
     "title": "Interfunktionen 1970, 4",
+    "image": "/images/int_cover.png",
+    "images": "/images/int_1.jpg; /images/int_2.jpg; /images/int_3.jpg; /images/int_4.jpg /images/int_5.jpg ",
     "field_author_creator": "Heubach, Friedrich Wolfram",
     "field_collaborator": "",
     "field_date_of_publication": "1970",

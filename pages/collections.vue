@@ -11,7 +11,7 @@
             </div>
             <div>
                 <a href="/book">
-                <img class="h-auto max-w-full " src="/images/vb2.jpg" alt=""> </a>
+                    <img class="h-auto max-w-full " src="/images/vb2.jpg" alt=""> </a>
             </div>
             <div>
                 <img class="h-auto max-w-full" src="/images/vb3.jpg" alt="">
@@ -19,7 +19,8 @@
         </div>
         <div class="col-start-5 col-end-7 space-y-4">
             <div>
-                <img class="h-auto max-w-full" src="/images/vb2.jpg" alt="">
+                <a href="/books"></a>
+                <img class="h-auto max-w-full" src="/images/int_cover.png" alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full" src="/images/vb5.jpg" alt="">

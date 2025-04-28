@@ -12,7 +12,7 @@
                     </svg></NuxtLink>
             </div>
             <div class="col-start-3 col-span-3 max-w-full">
-                <NuxtImg :src="book.images" alt="Book Image" class="" />
+                <NuxtImg :src="book.images" alt="Book Images" class="" />
             </div>
             <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[500px]">
                 <img class="h-auto max-w-full" src="/images/vb2.jpg" alt="">
