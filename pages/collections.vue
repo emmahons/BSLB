@@ -10,7 +10,8 @@
                 <img class="h-auto max-w-full " src="/images/vb6.jpg" alt="">
             </div>
             <div>
-                <img class="h-auto max-w-full " src="/images/vb2.jpg" alt="">
+                <a href="/book">
+                <img class="h-auto max-w-full " src="/images/vb2.jpg" alt=""> </a>
             </div>
             <div>
                 <img class="h-auto max-w-full" src="/images/vb3.jpg" alt="">

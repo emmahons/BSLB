@@ -1,13 +1,9 @@
 <template>
-
-
-
-
     <div class="grid grid-cols-12 gap-10 flex">
         <div class="col-start-2 col-span-10">
             <h1 class="title"> About</h1>
         </div>
-        <div class="col-start-3 col-end-8 overflow-auto">
+        <div class="col-start-3 col-end-8 scroll">
             <h2 class=""> The Collection</h2>
             <p> Welcome to the archive. This is a digital collection of some of the books from the special collection of
                 the Sint-Lukas library in Brussels. This library is part of LUCA School of Arts and can be visited by
@@ -32,7 +28,7 @@
                 always on display in the library, but they deserve to be seen. </p>
         </div>
 
-        <div class="col-start-9 col-end-12 overflow-auto">
+        <div class="col-start-9 col-end-12 scroll">
             <h2> Contact</h2>
             <p> Library Sint-Lukas Brussels
                 Rue des Palais 70, 1030 Brussels
@@ -41,3 +37,9 @@
         </div>
     </div>
 </template>
+
+<style>
+.scroll {
+    overflow: scroll;
+}
+</style>

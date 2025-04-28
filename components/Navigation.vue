@@ -1,7 +1,7 @@
 <template>
     <div>
-        <nav class="header mb-2">
-            <ul class="flex flex-row justify-end gap-8">
+        <nav class="header mb-2 bg-white">
+            <ul class="flex flex-row justify-end gap-8 mr-12">
                 <li class="pr-2">
                     <NuxtLink to="/collections">Collections</NuxtLink>
                 </li>
@@ -27,5 +27,6 @@ li {
 .header {
     font-family: 'rajdhani';
     font-size: large;
+    font-kerning: 100;
 }
 </style>

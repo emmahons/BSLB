@@ -1,11 +1,12 @@
 <template>
-<div>
-    <p class="pageTitle">Curating and visualizing a Library</p>
-    <p class="text-2xl">
-        This example starts from a yearly currated list of books from the library. The dataset is based on the dataset of LIMO and accessible as a JSON file.
-    </p>
-    <div class="buttonBack font-bold">
-        <NuxtLink to="/books">Access to the collection</NuxtLink>
+    <div>
+        <div class="grid grid-cols-12 gap-10">
+            <div class="col-start-2 col-span-10">
+                <p class="title"> Nieuwe aanwinsten</p>
+            </div>
+        </div>
+        <div class="buttonBack font-bold">
+            <NuxtLink to="/books">Access to the collection</NuxtLink>
+        </div>
     </div>
-</div>
 </template>
