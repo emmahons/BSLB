@@ -1,5 +1,5 @@
 <template>
-    <div class="grid grid-cols-12 gap-10 flex">
+    <div class="grid grid-cols-12 gap-10 flex mt-20">
         <div class="col-start-2 col-span-10">
             <h1 class="title"> About</h1>
         </div>

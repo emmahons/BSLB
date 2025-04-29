@@ -9,7 +9,7 @@
       class=" grid col-start-3 col-span-11 lg:grid-cols-4 sm:grid-cols-2 gap-x-10 gap-y-4  auto-rows-min overflow-hidden ">
       <li v-for="book in books" :key="book.id" class="">
         <div class="text-xl font-bold col-span-2 ">
-          <RouterLink :to="`/books/${books.id}`">
+          <RouterLink :to="`/books/${book.id}`">
             <NuxtImg :src="book.image" alt="Book Image" class="col-span-2" />
           </RouterLink>
         </div>
