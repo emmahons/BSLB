@@ -3,13 +3,13 @@
         <nav class="header mb-2 bg-white">
             <ul class="flex flex-row justify-end gap-8 mr-12">
                 <li class="pr-2">
-                    <NuxtLink to="/books">Collections</NuxtLink>
+                    <NuxtLink to="/collections">Collecties</NuxtLink>
                 </li>
                 <li class="pr-2">
-                    <NuxtLink to="/aboutus">About</NuxtLink>
+                    <NuxtLink to="/aboutus">Evenementen</NuxtLink>
                 </li>
                 <li class="pr-2">
-                    <NuxtLink to="/account">Account</NuxtLink>
+                    <NuxtLink to="/aboutus">Praktisch</NuxtLink>
                 </li>
                 <li class="pr-2">
                     <NuxtLink to="/Search">Search</NuxtLink>

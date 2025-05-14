@@ -1,41 +1,37 @@
 <template>
-    <div class="grid grid-cols-12 gap-10">
+    <div class="grid grid-cols-12 gap-10 mt-20">
         <div class="col-start-2">
             <BackButton />
         </div>
         <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[500px]">
-            <img class="h-auto max-w-full" src="/images/vb2.jpg" alt="">
-            <img class="h-auto max-w-full" src="/images/vb2achter.jpg" alt="">
+            <img class="h-auto max-w-full" src="/images/int_cover.png" alt="">
+            <img class="h-auto max-w-full" src="/images/int_1.JPG" alt="">
+            <img class="h-auto max-w-full" src="/images/int_2.JPG" alt="">
+            <img class="h-auto max-w-full" src="/images/int_3.JPG" alt="">
+            <img class="h-auto max-w-full" src="/images/int_4.JPG" alt="">
             <!-- Add more images or content if needed -->
         </div>
         <div class="col-start-7 col-span-4 overflow-y-auto max-h-[700px]">
-            <div class="h-auto max-w-full"> 
-            <h1> D'l'or </h1>
-            <h1>Rosanna Puyol Boralevi </h1>
+            <div class="h-auto max-w-full">
+                <p class="font-medium text-2xl"> Interfunktionen 9 </p>
+                <p class="font-medium italic text-2xl">Heubach, Friedrich Wolfram </p>
+                <div class="col-start-7 col-span-1">
+                    <p class="rajdhani col-span-1"> language</p>
+                    <p class="rajdhani"> Publication date</p>
+                    <p class="rajdhani"> Pages</p>
+                </div>
+                <div class="col-start-9 ">
+                    <p class="italic">German</p>
+                    <p class="italic">German</p>
+                </div>
 
-            <p>more information can come here
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum."</p>
-                <p>more information can come here
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum."</p>
-                <p>more information can come here
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum."</p>
 
-            <div class="col-start-7 pt-6">
-                <h2> more like this</h2>
+                <p>Artists' publication; Artists' magazines. </p>
+
+                <div class="col-start-7 pt-6">
+                    <h2> more like this</h2>
+                </div>
             </div>
-        </div>
         </div>
 
         <div class="col-start-12">
