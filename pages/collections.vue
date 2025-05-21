@@ -24,7 +24,7 @@
                     <img class="h-auto max-w-full" src="/images/int_cover.png" alt=""></a>
             </div>
             <div>
-                <img class="h-auto max-w-full" src="/images/jb_cover.png" alt="">
+                <img class="h-auto max-w-full" src="/images/JB_cover.png" alt="">
             </div>
             <div>
                 <img class="h-auto max-w-full" src="/images/vb6.jpg" alt="">

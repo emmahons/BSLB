@@ -1,37 +1,65 @@
 <template>
     <div class="grid grid-cols-12 gap-10 mt-20">
+
+
         <div class="col-start-2 col-span-10">
-            <h1 class="title"> Nieuwe aanwinsten</h1>
-            <div class="scrollmenu"> <img class="max-w-xs" src="/images/jb_cover.png" alt=""><img class=" max-w-xs"
-                    src="/images/jb_cover.png" alt=""><img class=" max-w-xs" src="/images/jb_cover.png" alt="">
+            <section class="mt-10">
+                <h2 class="title  mb-2 px-4">Nieuwe aanwinsten</h2>
+                <div class="w-full overflow-x-auto whitespace-nowrap py-4 px-2 scrollbar-hide">
+                    <div class="flex inline-flex space-x-4">
+                        <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-40 object-cover" />
+                        <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-40 object-cover" />
+                        <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-40 object-cover" />
+                        <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-40 object-cover" />
+                    </div>
+                </div>
+            </section>
+        </div>
+   
+
+
+
+
+
+    <div class="col-start-1 col-span-8">
+        <section class="bg-gray-300 p-8 relative -z-10">
+            <h2 class="title text-xl text-white mb-4 ml-20">In de vitrine</h2>
+            <div class="flex flex-col md:flex-row gap-6">
+                <img src="/images/foto_jazz.png" alt="Jazz book" class="ml-20 w-40 object-cover" />
+                <div>
+                    <h3 class="font-semibold text-xl mt-20">It might as well be spring!</h3>
+                    <p class="text-m ">
+                        The Sight of Jazz: a selection of books from the library collections and some records from
+                        the collection of a librarian.
+                    </p>
+                    <button class="mt-4 bg-black text-white px-4 py-2 rajdhani text-sm">Lees meer</button>
+                </div>
             </div>
-        </div>
-        <div class="col-start-2 col-span-2">
-            <h1 class="title"> In de vitrine</h1>
-            <img class="max-w-40" src="/images/foto_jazz.png" alt="">
-        </div>
-        <div class="col-start-4 col-span-5 mt-40">
-            <p class="font-bold"> It might as well be spring!</p>
-            <p> The Sight of Jazz: a selection of books from the library collections and some records from the
-                collection of a librarian.</p>
-        </div>
-        <div class="object-right max-h-3xl"><img class="" src="/images/vorm_oog.png" alt=""></div>
-
-
-        <div class="col-start-7 col-span-5 bg-sky-700 max-h-32">
-            <h1 class="title ml-2"> Op de agenda</h1>
-            <img class="max-w-40 bg-sky-700" src="/images/foto_jazz.png" alt="">
-        </div>
-        <div class="col-start-9 col-span-4 mt-40 bg-sky-700">
-            <p class="font-bold"> Library Talk #1: Nick Mauss</p>
-            <p class="italic"> In conversation with Robbrecht Desmet and Camiel van Winkel</p>
-            <p class=""> Maandag 4.04.2024</p>
-        </div>
-
+        </section>
     </div>
-    <div class="grid grid-cols-12 gap-10">
+    <div class="col-start-9 top-0 right-0 w-80 h-64 mt-20"><img class="" src="/images/vorm_oog.png" alt=""></div>
 
+    <div class="col-start-7 col-span-5 ">
+        <section class="bg-blue-200 p-8 relative -z-10">
+            <h2 class="title text-xl text-gray-100 mb-4">Op de agenda</h2>
+            <div class="flex flex-col md:flex-row gap-6 items-start">
+                <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-40 object-cover" />
+                <div>
+                    <h3 class="font-semibold">Library Talk #1: Nick Mauss</h3>
+                    <p class="italic text-m mt-2">
+                        In conversation with Robbrecht Desmet and Camiel van Winkel
+                    </p>
+                    <p class="text-sm mt-1">Maandag 4.04.2024 — 20:00</p>
+                    <button class="mt-4 bg-black text-white px-4 py-2 rajdhani text-sm">Lees meer</button>
+                </div>
+            </div>
+            <!-- Blue shape -->
+            <div class="absolute bottom-0 left-0 w-32 h-20 bg-blue-300 rounded-full -z-10 opacity-50"></div>
+        </section>
     </div>
+
+ </div>
+
 
 
 
