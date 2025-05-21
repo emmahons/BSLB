@@ -3,7 +3,7 @@
         <div class="col-start-2">
             <BackButton />
         </div>
-        <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[500px]">
+        <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[700px]">
             <img class="h-auto max-w-full" src="/images/int_cover.png" alt="">
             <img class="h-auto max-w-full" src="/images/int_1.JPG" alt="">
             <img class="h-auto max-w-full" src="/images/int_2.JPG" alt="">

@@ -1,4 +1,5 @@
 <template>
+
     <div class="grid grid-cols-12 gap-10 bg-black mt-40 pb-20">
         <div class="text-white text-3xl col-start-2 mt-10">
             BSLB

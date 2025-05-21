@@ -3,9 +3,10 @@
         <div class="col-start-2 col-span-10">
             <h1 class="title"> Search</h1>
         </div>
-        <div class="col-start-3 col-span-9">
-            <input name="search" type="search" placeholder="Search" class="w-full bg-gray-200 z-1"  >
-            <img class="h-auto max-w-full -z-0" src="/images/zoek.png" alt="">
+        <div class="col-start-3 col-span-9 relative">
+            <img class="h-auto max-w-full -z-0 " src="/images/zoek.png" alt="">
+            <input name="search" type="search" placeholder="Search" class="w-full bg-gray-200 z-1 absolute">
+
             <p class="z-1"> search </p>
         </div>
         <div class="col-start-3 col-span-9">

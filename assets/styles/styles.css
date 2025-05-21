@@ -26,7 +26,10 @@ hr {
     font-family: "rajdhani";
 }
 
-.header {}
+.header {
+    font-family: "rajdhani";
+    font-weight: 500;
+}
 
 body {
     font-family: "garamond";

@@ -50,7 +50,7 @@
         </div>
         <div class="col-start-9 top-0 right-0 w-80 h-64 mt-20"><img class="" src="/images/vormen/vorm_oog.png" alt="">
         </div>
-        <div class="col-start-3 top-0 left-0 w-56 h-40 mt-20"><img class="" src="/images/vormen/vorm_boek.png" alt="">
+        <div class="col-start-3 top-0 left-0 w-56 h-40 mt-10"><img class="" src="/images/vormen/vorm_boek.png" alt="">
         </div>
         <div class="col-start-7 col-span-5 ">
             <section class="bg-[#406791] p-8 relative -z-10">
@@ -76,9 +76,10 @@
                         Onze bibliothek maakt gebruik van het UDC systeem om boeken te categoriseren. Ben je op zoek
                         naar een specifiek boek? Kom te weten hoe je deze volgens de UDC-classificatie kan opzoeken!
                     </p>
-                    <button class="mt-4 bg-black text-white px-4 py-2 rajdhani text-sm">
-                        <NuxtLink to="/book">Lees meer</NuxtLink>
-                    </button>
+
+                    <a href="/udc" class="text-white bg-black text-sm px-4 py-2 rajdhani mt-4"> Lees meer </a>
+
+
 
                 </div>
             </section>
