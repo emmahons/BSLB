@@ -9,7 +9,7 @@
                     <NuxtLink to="/aboutus">Evenementen</NuxtLink>
                 </li>
                 <li class="pr-2">
-                    <NuxtLink to="/aboutus">Praktisch</NuxtLink>
+                    <NuxtLink to="/praktisch">Praktisch</NuxtLink>
                 </li>
                 <li class="pr-2">
                     <NuxtLink to="/Search">Search</NuxtLink>
