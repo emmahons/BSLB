@@ -22,9 +22,17 @@ hr {
     margin-bottom: 1.5em;
 }
 
-.rajdhani{
+.rajdhani {
     font-family: "rajdhani";
 }
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+
+}
+
 .header {}
 
 body {

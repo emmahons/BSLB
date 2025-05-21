@@ -2,6 +2,9 @@
     <div class="grid grid-cols-12 gap-10 mt-20">
         <div class="col-start-2 col-span-10">
             <h1 class="title"> Nieuwe aanwinsten</h1>
+            <div class="scrollmenu"> <img class="max-w-xs" src="/images/jb_cover.png" alt=""><img class=" max-w-xs"
+                    src="/images/jb_cover.png" alt=""><img class=" max-w-xs" src="/images/jb_cover.png" alt="">
+            </div>
         </div>
         <div class="col-start-2 col-span-2">
             <h1 class="title"> In de vitrine</h1>
