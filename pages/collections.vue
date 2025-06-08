@@ -7,7 +7,7 @@
     <div class="grid grid-cols-12 gap-10">
         <div class="col-start-3 col-end-5 space-y-4">
             <div>
-                <a href="/book2">
+                <a href="/book_christo">
                     <img class="h-auto max-w-full " src="/images/christo_cover.png" alt=""> </a>
             </div>
             <div>
@@ -20,7 +20,7 @@
         </div>
         <div class="col-start-5 col-end-7 space-y-4">
             <div>
-                <a href="/book">
+                <a href="/book_int">
                     <img class="h-auto max-w-full" src="/images/int_cover.png" alt=""></a>
             </div>
             <div>
