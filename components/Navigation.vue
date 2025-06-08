@@ -3,7 +3,7 @@
         <nav class="header mb-2 bg-white">
             <ul class="flex flex-row justify-end gap-8 mr-12">
                 <li class="pr-2">
-                    <NuxtLink to="/collections">Collecties</NuxtLink>
+                    <NuxtLink to="/collectiesalgemeen">Collecties</NuxtLink>
                 </li>
                 <li class="pr-2">
                     <NuxtLink to="/evenementen">Evenementen</NuxtLink>

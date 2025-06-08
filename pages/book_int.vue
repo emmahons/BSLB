@@ -30,12 +30,12 @@
                 </button>
             </div>
             <div class="col-start-2 col-span-1 mt-20">
-                <div class="italic mb-4">Duits</div>
-                <div class="italic mb-4">1970</div>
-                <div class="italic mb-4">168</div>
-                <div class="italic mb-4">20,5 x 13 cm</div>
-                <div class="italic mb-4">9782492650116</div>
-                <div class="italic mb-4">C-COLL 7.038 HEUB</div>
+                <div class="italic mb-4 text-end pr-4">Duits</div>
+                <div class="italic mb-4 text-end pr-4">1970</div>
+                <div class="italic mb-4 text-end pr-4">168</div>
+                <div class="italic mb-4 text-end pr-4">20,5 x 13 cm</div>
+                <div class="italic mb-4 text-end pr-4">9782492650116</div>
+                <div class="italic mb-4 text-end pr-4">C-COLL 7.038 HEUB</div>
             </div>
             <div class="col-start-1 col-span-2 mt-20"> Artists' publications; Artists' magazines.</div>
         </div>
@@ -46,7 +46,7 @@
 
 
         <div class="col-start-7 pt-6">
-            <h2> more like this</h2>
+            <h2> meer zoals dit</h2>
         </div>
 
 

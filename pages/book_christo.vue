@@ -29,14 +29,17 @@
                 </button>
             </div>
             <div class="col-start-2 col-span-1 mt-20">
-                <div class="italic mb-4">Duits</div>
-                <div class="italic mb-4">1970</div>
-                <div class="italic mb-4">168</div>
-                <div class="italic mb-4">20,5 x 13 cm</div>
-                <div class="italic mb-4">9782492650116</div>
-                <div class="italic mb-4">C-COLL 7.038 HEUB</div>
+                <div class="italic mb-4 text-end pr-4">Duits</div>
+                <div class="italic mb-4 text-end pr-4">1968</div>
+                <div class="italic mb-4 text-end pr-4">(geen nummering)</div>
+                <div class="italic mb-4 text-end pr-4">29 x 20,5 cm</div>
+                <div class="italic mb-4 text-end pr-4">9782492650116</div>
+                <div class="italic mb-4 text-end pr-4">C-COLL 7.071 CHRI</div>
             </div>
-            <div class="col-start-1 col-span-2 mt-20"> Artists' publications; Artists' magazines.</div>
+            <div class="col-start-1 col-span-2 mt-20"> Artists' book documenting the design, construction and
+                presentation of Christo's 5,600 cubic meter balloon sculpture at Documenta 4, 1968. Contents consist of
+                reproductions of sketches, architectural plans and photographs of the work in progress. Photographs by
+                Klaus Baum and Thomas Cugini. No texts.</div>
         </div>
 
         <div class="col-start-11 mt-10">

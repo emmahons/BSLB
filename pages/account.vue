@@ -5,14 +5,32 @@
             <div class="col-start-2 col-span-10">
                 <p class="title"> Account</p>
             </div>
-            <div class="col-start-3 col-span-4">
-                <h2> Algemene instellingen</h2>
-                Taal <br>
-                color mode
+
+            <div class="col-start-3 col-span-4 grid">
+                <h2 class="col-start-1 col-span-2 "> Algemene instellingen</h2>
+                <div class="col-start-1 col-span-1">
+                    <div class="rajdhani col-start-1 mb-4"> Taal</div>
+                    <div class="rajdhani col-start-1 mb-4"> Kleurenmodus</div>
+                    <div></div>
+                </div>
+                <div class="col-start-2">
+                    <div class="mb-4 text-end pr-10"> Nederlands</div>
+                    <div class="mb-4 text-end pr-10"> Licht </div>
+                    <div> </div>
+                </div>
             </div>
-            <div class="col-start-7 col-span-4">
-                <h2> Persoonlijke instellingen</h2>
-                Naam <br> Email adress <br> Wachtwoord
+            <div class="col-start-7 col-span-4 grid">
+                <h2 class="col-start-1 col-span-2 mb-4"> Persoonlijke instellingen</h2>
+                <div class="col-start-1 col-span-1">
+                    <div class="rajdhani col-start-1 mb-4"> Naam</div>
+                    <div class="rajdhani col-start-1 mb-4"> Email adress</div>
+                    <div class="rajdhani col-start-1"> Wachtwoord</div>
+                </div>
+                <div class="col-start-2">
+                    <div class="mb-4 text-end"> Naam Achternaam</div>
+                    <div class="mb-4 text-end"> Naam.achternaam@student.luca-arts.be </div>
+                    <div class="mb-4 text-end"> *******</div>
+                </div>
             </div>
 
             <hr class="col-start-2 col-span-10">
@@ -46,6 +64,9 @@
                     </div>
                 </div>
             </div>
+            <button class="col-start-3 col-span-2 mt-4 bg-black text-white px-4 py-1 rajdhani text-lg">
+                + nieuwe lijst
+            </button>
         </div>
     </div>
 </template>

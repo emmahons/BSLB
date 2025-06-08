@@ -1,8 +1,19 @@
 <template>
     <div class="grid grid-cols-12 gap-10 mt-20">
+
+        <div class="w-full overflow-x-auto whitespace-nowrap pt-4 px-2 scrollbar-hide col-start-2 col-span-9">
+            <div class="flex inline-flex space-x-12">
+                <a href="/collectiesalgemeen">COLLECTIES</a>
+                <a class="underline italic"> Collectie Hubert Peeters</a>
+                <div class="italic"> Collectie Dirk Lauwaert</div>
+                <a class="italic"> Limo</a>
+            </div>
+        </div>
+
         <div class="col-start-2 col-span-10">
             <h1 class="title"> Peeters collection</h1>
         </div>
+
     </div>
     <div class="grid grid-cols-12 gap-10">
         <div class="col-start-3 col-end-5 space-y-4">

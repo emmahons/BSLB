@@ -1,27 +1,27 @@
 <template>
     <div class="grid grid-cols-12 gap-10 mt-20">
-        <div class="col-start-2">
+        <div class="col-start-2 mt-10">
             <BackButton />
         </div>
-        <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[700px]">
+        <div class="col-start-3 col-span-3 space-y-4 overflow-y-auto max-h-[700px] mt-10">
             <img class="h-auto max-w-full" src="/images/evenementen/ev1.jpeg" alt="">
             <img class="h-auto max-w-full" src="/images/evenementen/ev1:1.jpeg" alt="">
             <img class="h-auto max-w-full" src="/images/evenementen/ev1:2.jpeg" alt="">
             <!-- Add more images or content if needed -->
         </div>
-        <div class="col-start-7 col-span-4 overflow-y-auto max-h-[700px]">
+        <div class="col-start-7 col-span-4 overflow-y-auto max-h-[700px] mt-10">
             <div class="h-auto max-w-full">
-                <p class="font-medium text-2xl"> Reports from a classroom </p>
-                <p class="font-medium italic text-2xl"> Dirk Lauwaert </p>
+                <p class="font-medium text-4xl"> Reports from a classroom </p>
+                <p class="font-medium italic text-3xl"> Dirk Lauwaert </p>
                 <div class="col-start-7 col-span-1">
-                    <p class="rajdhani col-span-1"> Book Club</p>
+                    <p class="rajdhani col-span-1 pt-10"> Book Club</p>
                     <p class="rajdhani"> Wednesday May 28</p>
                     <p class="rajdhani"> 7 PM</p>
                 </div>
 
 
 
-                <p>Dear readers,
+                <p class="pt-10">Dear readers,
                     The last essay in our triptych on art education after “Poor Artists” and “Let’s talk about Critique”
                     is “Reports from a Classroom” by art critic, writer and former colleague Dirk Lauwaert (1944 -
                     2013). The original Dutch text “Berichten uit een klas” originally appeared in De Witte Raaf 50
@@ -40,7 +40,7 @@
             </div>
         </div>
 
-        <div class="col-start-12">
+        <div class="col-start-12 mt-10">
             <favorites />
         </div>
 
