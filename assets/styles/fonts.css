@@ -102,9 +102,30 @@
 .appTitle {
   font-size: xx-large;
   font-family: "eb garamond", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 3px;
+}
+
+strong {
+  font-size: xx-large;
+  font-family: "eb garamond", sans-serif;
   font-weight: 700;
   font-style: normal;
   line-height: normal;
+}
+
+em {
+  font-family: "eb garamond", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+}
+
+p {
+  font-family: "eb garamond", sans-serif;
+  font-style: normal;
+  font-size: 18px;
 }
 
 .pageTitle {
@@ -139,7 +160,7 @@ h1 {
   padding-top: 20px;
 }
 
-h2{
+h2 {
   font-family: "rajdhani";
   font-weight: 500;
   font-size: x-large;

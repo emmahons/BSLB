@@ -4,13 +4,7 @@
     font-weight: 700;
 }
 
-.container {
-    /* max-width: 90vw;
-    margin-left: auto;
-    margin-right: auto;
-    column-count: 24;
-    column-gap:20;*/
-}
+
 
 p {
     margin-top: .5em;
@@ -59,4 +53,13 @@ h3 {
     font-family: "eb garamond";
     font-style: italic;
     font-size: xx-large;
+}
+
+.container {
+    max-width: 1440px;
+
+}
+
+.fixed {
+    z-index: 40;
 }
