@@ -7,6 +7,7 @@
                 <h2 class="title  mb-2 px-4">Nieuwe aanwinsten</h2>
                 <div class="w-full overflow-x-auto whitespace-nowrap py-4 px-2 scrollbar-hide">
                     <div class="flex inline-flex space-x-4">
+                        <img src="/images/na/na0.jpg" alt="Nick Mauss" class="w-40 object-cover" />
                         <img src="/images/na/na1.jpeg" alt="Nick Mauss" class="w-40 object-cover" />
                         <img src="/images/na/na2.jpeg" alt="Nick Mauss" class="w-40 object-cover" />
                         <img src="/images/na/na3.jpg" alt="Nick Mauss" class="w-40 object-cover" />
@@ -17,8 +18,8 @@
                         <img src="/images/na/na8.jpg" alt="Nick Mauss" class="w-40 object-cover" />
                         <a
                             href="https://luca.limo.libis.be/discovery/search?query=any,contains,acquisitiondate202503LUKASphysical&tab=ALL_CONTENT&search_scope=ALL_CONTENT_PROFILE&vid=32KUL_LUCAWENK:LUCA&lang=nl&offset=0&pcAvailability=false">
-                            <button class="mt-6 bg-black text-white px-2 py-2 max-h-20 rajdhani text-m"> Toon
-                                alles</button></a>
+                            <button class="mt-20 mr-10 bg-black text-white px-2 py-2 max-h-20 rajdhani text-m"> Ga naar
+                                LIMO</button></a>
                     </div>
                 </div>
             </section>
