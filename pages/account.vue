@@ -59,7 +59,7 @@
                     <div class="flex inline-flex space-x-4">
                         <img src="/images/co_cover.png" alt="Nick Mauss" class="w-20 object-cover" />
                         <img src="/images/jd_cover.png" alt="Nick Mauss" class="w-20 object-cover" />
-                        <img src="/images/JB_cover.png" alt="Nick Mauss" class="w-20 object-cover" />
+                        <img src="/images/jb_cover.png" alt="Nick Mauss" class="w-20 object-cover" />
                         <img src="/images/ngsa_cover.png" alt="Nick Mauss" class="w-20 object-cover" />
                     </div>
                 </div>
